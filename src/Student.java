@@ -1,10 +1,10 @@
 public class Student {
 
-    // 1. Encapsulation is the privite fields vairibles.
+    // 1. Encapsulation is the hidden of field private objects.
     private String name;
     private int studentId;
 
-    // 2. Constructor initialize the value.
+    // 2. Constructor is the initilze the vaues of two objects.
     public Student(String name, int studentId) {
         this.name = name;
         this.studentId = studentId;
